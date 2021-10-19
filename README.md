@@ -2,9 +2,9 @@ Hello! I’m CJ Sanders
 
 - 👀 I’m interested in starting a career in web development
 - 🌱 I’m currently enrolled in the Coding Boot Camp offered by Denver University
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on new coding projects that will help sharpen my skills
 - 📫 How to reach me ...<br>
-    Email  -  cjsand03@gmail.com
+    Email  -  cjsand03@gmail.com<br>
     LinkedIn  -  http://www.linkedin.com/in/cj-sanders-5031a08b
     
 
