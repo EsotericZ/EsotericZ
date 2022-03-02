@@ -5,7 +5,8 @@ Hello! I’m CJ Sanders
 - 💞️ I’m looking to collaborate on new coding projects that will help sharpen my skills
 - 📫 How to reach me ...<br>
     Email  -  cjsand03@gmail.com<br>
-    LinkedIn  -  http://www.linkedin.com/in/cj-sanders-5031a08b
+    LinkedIn  -  https://www.linkedin.com/in/cj-sanders1986/<br>
+    Online Portfolio - https://esotericz.github.io/portfolio/
     
 
 <!---
