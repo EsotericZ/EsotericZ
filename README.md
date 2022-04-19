@@ -15,7 +15,7 @@
 
 ---
 
-:man_technologist: <b>About Me</b>
+### :man_technologist: About Me :
 
 - 👀 I’m interested in starting a career in web development
 - 🌱 Recent graduate of the Coding Boot Camp offered by Denver University
