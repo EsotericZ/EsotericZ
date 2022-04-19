@@ -8,7 +8,7 @@ Hello! I’m CJ Sanders
     LinkedIn  -  https://www.linkedin.com/in/cj-sanders1986/<br>
     Online Portfolio - https://esotericz.github.io/portfolio/
     
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EsotericZ)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EsotericZ&theme=nightowl)](https://git.io/streak-stats)
 
 <!---
 EsotericZ/EsotericZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
