@@ -17,13 +17,13 @@
 
 ### :man_technologist: About Me :
 
-- 👀 I’m interested in starting a career in web development
-- 🌱 Recent graduate of the Coding Boot Camp offered by Denver University
+- 👀 I’m interested in starting a career in web/software development
+- 🌱 Recent graduate of the Coding Boot Camp offered by University of Denver
 - 💞️ I’m looking to collaborate on new coding projects that will help sharpen my skills
 - 📫 How to reach me ...<br>
     Email  -  cjsand03@gmail.com<br>
     LinkedIn  -  https://www.linkedin.com/in/cj-sanders1986/<br>
-    Online Portfolio - https://esotericz.github.io/portfolio/
+    Online Portfolio - https://cjsanders.co
     
 ---
 
