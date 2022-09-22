@@ -18,7 +18,7 @@
 ### :man_technologist: About Me :
 
 - 👀 I’m interested in starting a career in web/software development
-- 🌱 Recent graduate of the Coding Boot Camp offered by University of Denver
+- 🌱 Graduate of the Coding Boot Camp offered by University of Denver
 - 💞️ I’m looking to collaborate on new coding projects that will help sharpen my skills
 - 📫 How to reach me ...<br>
     Email  -  cjsand03@gmail.com<br>
